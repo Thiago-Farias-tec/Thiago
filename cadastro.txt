@@ -1,0 +1,2 @@
+nome;senha;
+thiago;12;
